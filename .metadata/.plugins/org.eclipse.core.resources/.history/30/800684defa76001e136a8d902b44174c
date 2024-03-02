@@ -1,0 +1,11 @@
+package com.jsp.controller;
+
+import com.jsp.dao.TeacherDao;
+import com.jsp.entities.Teacher;
+
+public class TeacherController {
+	public static void main(String[] args) {
+		TeacherDao dao = new TeacherDao();
+		
+	}
+}

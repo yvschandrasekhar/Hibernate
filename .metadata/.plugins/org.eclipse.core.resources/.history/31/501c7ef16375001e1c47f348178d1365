@@ -1,0 +1,9 @@
+package com.composite.pack;
+
+public class SaveEmp {
+
+	public static void main(String[] args) {
+		CompositeKeyForEmployee cke = new CompositeKeyForEmployee("101" , "sai" , "banglore" , 50000);
+	}
+
+}

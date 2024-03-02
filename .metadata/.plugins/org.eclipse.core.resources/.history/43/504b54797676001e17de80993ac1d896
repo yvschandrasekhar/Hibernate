@@ -1,0 +1,30 @@
+package com.hiber.pack;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class Pan {
+	@Id
+	private int panid;
+	private String panno;
+	private String loc;
+	public int getPanid() {
+		return panid;
+	}
+	public void setPanid(int panid) {
+		this.panid = panid;
+	}
+	public String getPanno() {
+		return panno;
+	}
+	public void setPanno(String panno) {
+		this.panno = panno;
+	}
+	public String getLoc() {
+		return loc;
+	}
+	public void setLoc(String loc) {
+		this.loc = loc;
+	}
+}

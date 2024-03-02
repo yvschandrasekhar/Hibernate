@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\secondlevel-cache"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\ONETOONE-MAPPING"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\CompositePrimaryKey"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\onetomany-mapping"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\onetoone-Bi"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\Hibernate-01"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\onetoone-mapping-uni"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\manytoone"/>
+			<item value="C:\Users\ADMIN\Desktop\Hibernate\onetomany-mapping\src\main\java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jsp"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="BasicOperations"/>
+			<item value="ONETOMANY-MAPPING-PRAC"/>
+			<item value="School-Management-App"/>
+			<item value="ONETOONE-MAPPING"/>
+			<item value="Employee"/>
+			<item value="CompositePrimaryKey"/>
+			<item value="Hibernate-02"/>
+			<item value="secondlevel-cache"/>
+			<item value="onetomany-Bi"/>
+			<item value="manytomany-Bi"/>
+			<item value="onetoone-Bi"/>
+			<item value="manytomany-mapping"/>
+			<item value="manytoone"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

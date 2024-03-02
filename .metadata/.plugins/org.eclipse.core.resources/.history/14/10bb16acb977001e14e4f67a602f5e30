@@ -1,0 +1,10 @@
+package com.basic.pack;
+
+public class FetchBat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.jsp.pack;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class FetchEmp {
+
+	public static void main(String[] args) {
+		EntityManagerFactory emf  = Persistence.createEntityManagerFactory("chandu");
+		EntityManager em = emf.createEntityManager();
+		Employee emplo = em.find(Employee.class, 101 );
+		System.out.println(emplo);)
+	}
+
+}
